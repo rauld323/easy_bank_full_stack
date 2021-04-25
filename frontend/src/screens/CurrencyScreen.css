@@ -1,0 +1,6 @@
+.currencyScreen{
+	height: 100vh;
+	margin: auto;
+	overflow: hidden;
+	background-color: firebrick;
+}
