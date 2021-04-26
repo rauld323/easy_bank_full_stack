@@ -81,8 +81,6 @@ const HomeScreen = () => {
 							</div>
 						</div>
 				</section>
-				<section className="currencies">
-				</section>
 		</div>
 	)
 }
